@@ -6,9 +6,8 @@ Add your content here.
 
 
 = Details =
-*aaaaaaaaaaaaaa
-*dddddd*bold*
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+如何获取搜索引擎的url?
+进入搜索引擎，在搜索框中输入{s}然后点击搜索，然后将网页地址添加到url框内即可。
+
+如何获取获取浏览器编码？
+浏览到搜索结果页面，然后查看编码，当编码不是“unicode（utf-8）”时选中，GB2312框。
