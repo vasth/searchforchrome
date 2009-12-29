@@ -1,4 +1,4 @@
 =更新记录=
-1.3.2
-issue1,搜索页面底部等位置，快捷菜单超出浏览器窗口的问题，Reported by qkuncn
-issue3,在查看源文件页面(view-source:http://)禁用quicksearch
+* 1.3.2
+ # issue1,搜索页面底部等位置，快捷菜单超出浏览器窗口的问题，Reported by qkuncn
+ # issue3,在查看源文件页面(view-source:http://)禁用quicksearch
