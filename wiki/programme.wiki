@@ -2,7 +2,7 @@
 
 == 图片查看 ==
  # 简单的操作功能，包括旋转、缩放等。
- # 图片编辑器添加编辑功能。
+ # 图片编辑器添加编辑功能。http://www.pixlr.com/editor/?image=http://www.google.cn/intl/zh-CN/images/logo_cn.gif&title=logo_cn.gif&loc=zh-cn
 
 == 超级拖拽 ==
  * 拖拽文字
